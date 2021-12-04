@@ -1,2 +1,2 @@
-pub mod merge_sort;
-pub mod linked_list;
+pub mod sorts;
+pub mod linked_lists;
